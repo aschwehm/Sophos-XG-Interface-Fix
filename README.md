@@ -1,5 +1,5 @@
 ## Sophos XG Interface Fix
----
+
 This is an attempt to fix the horrible Sophos XG Interface which lookls like it is designed for 720p displays and is nearly unusable with modern display resolutions.
 
 ---
