@@ -1,0 +1,119 @@
+.mainframecontent {
+    padding-left: 13% !important;
+}
+#mainframediv {
+    transform: scale(1.25) !important;
+    padding-top: 20% !important;
+}
+#wrapper.cp-wrapper {
+    max-width: 80% !important;
+}
+#topbar {
+    width: 90% !important;
+}
+.cp-wrapper nav.tabs-nav {
+    max-width: 100% !important;
+}
+.cp-wrapper .footer-btn-pnl {
+    left: 8% !important;
+}
+.cp-wrapper nav.tabs-nav ul li {
+    font-size: 16px;
+}
+
+
+.yui-skin-sam .yui-dt td {
+    height: 50px;
+}
+
+.two-line-ellipses {
+    overflow: visible !important; 
+}
+
+.source-td, .destination-td, .what-td, .fwruleid, .fwId-td, .fg-rule-subtitle, .name-td, .original-td, .translated-td, .interface-td, .natid-td, .usage-td, .action-td {
+    word-break: normal;
+}
+
+.cp-wrapper #mainframediv {
+    width: 98%;
+}
+
+.cp-wrapper .content-div {
+    padding-right: 20% !important;
+}
+
+.cp-wrapper .sophos-ruleNav-one {
+	left: 83%;
+}
+
+.web-policy-container .policy-icon.schedule-icon-invisible {
+    opacity: 100;
+}
+
+.web-policy-container .schedule-icon-text-border {
+    border: 1px solid #b2b9be !important;
+}
+
+.web-policy-container .lock-icon-invisible {
+    opacity: 100;
+}
+
+.web-policy-container .CNS-web-policy-multi-selector-div {
+    width: 300px !important;
+}
+
+[class*="-col-webcategoryid"] .yui-dt-liner {
+    width: 300px !important;
+}
+
+.web-policy-container .activity-multi-selector .wp-text {
+    width: 300px !important;
+}
+
+.web-policy-container .CNS-web-policy-multi-selector-div .activity-multi-selector .wp-icon-header-row {
+    position: absolute !important;
+}
+
+wp-icon-header-row {
+    display: none !important;
+}
+
+#ApplicationListDataTable {
+    padding-top: 5%;
+}
+
+/* 
+.fa-caret-down {
+    display: none !important;
+}
+
+
+[id*="th-user"]  {
+    resize: horizontal;
+}
+
+[id*="th-webcategoryid-liner"]  {
+    resize: horizontal;
+}
+
+[id*="th-httpcategoryaction-liner"]  {
+    resize: horizontal;
+}
+
+
+[id*="th-isenabled-liner"]  {
+    resize: horizontal;
+}
+
+[id*="th-manage-liner"]  {
+    resize: horizontal;
+}
+
+[id*="-th-schedulekey-liner"]  {
+    resize: horizontal;
+}
+
+::-webkit-resizer {
+  display: none;
+}
+
