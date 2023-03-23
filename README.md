@@ -18,7 +18,7 @@ This is an attempt to fix the horrible Sophos XG Interface which looks like it i
 
 1. Download and Install all the Addons
 2. Create a new Violentmonkey Script, paste the contents of `Violentmonkey/violentmonkey_script.js` and save it.
-3. Create a new design in stylish, give it a name, paste the contents of Stylish/stylish-css.css.
+3. Create a new design in stylish, give it a name, paste the contents of `Stylish/stylish-css.css`.
 4. Click on `specify` at the bottom of the page and select `URLs matching the regexp`
 5. Insert the Regex `^.*webconsole/webpages.*$` Then click save. Make sure you check Enabled.
 6. Finish. The interface should be usable again.
